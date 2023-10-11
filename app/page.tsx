@@ -1,4 +1,3 @@
-import Link from "next/link";
 import React from "react";
 import Particles from "./components/particles";
 import '@fortawesome/fontawesome-free/css/all.min.css';
