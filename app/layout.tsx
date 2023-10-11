@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
 	title: {
-		default: "chronark.com",
-		template: "%s | chronark.com",
+		default: "saigemind.com",
+		template: "%s | saigemind.com",
 	},
-	description: "Software engineer at upstash.com and founder of planetfall.io",
+	description: "Creating the next generation of mental healthcare, from diagnosis to treatment access.",
 	openGraph: {
-		title: "chronark.com",
+		title: "saigemind.com",
 		description:
-			"Software engineer at upstash.com and founder of planetfall.io",
-		url: "https://chronark.com",
-		siteName: "chronark.com",
+			"",
+		url: "https://saigemind.com",
+		siteName: "saigemind.com",
 		images: [
 			{
-				url: "https://chronark.com/og.png",
+				url: "https://saigemind.com/Saige.png",
 				width: 1920,
 				height: 1080,
 			},
@@ -38,11 +38,11 @@ export const metadata: Metadata = {
 		},
 	},
 	twitter: {
-		title: "Chronark",
+		title: "Saige Mind",
 		card: "summary_large_image",
 	},
 	icons: {
-		shortcut: "/favicon.png",
+		shortcut: "/favicon.ico",
 	},
 };
 const inter = Inter({
